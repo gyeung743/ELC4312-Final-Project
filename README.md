@@ -1,7 +1,7 @@
 # Hardware Performance Monitor (HPM) for MicroBlaze MCS
 
 **Author:** Gabriel Yeung  
-**Course:** ELC 4312 (Softcore SoCs)  
+**Course:** ELC 4312 (Softcore SoC)  
 **Platform:** Nexys 4 DDR (Artix-7 FPGA)  
 
 ## Project Overview
