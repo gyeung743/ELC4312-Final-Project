@@ -6,7 +6,7 @@
 HpmCore hpm(get_slot_addr(BRIDGE_BASE, S5_HPM));
 
 // Benchmark 1: Arithmetic
-// 1,0a00,000 iterations
+// 1,000,000 iterations
 void test_arithmetic() {
     uart.disp("\r\n[Running Arithmetic Benchmark]...\r\n");
     volatile int sum = 0;
@@ -74,4 +74,5 @@ int main() {
     }
     
     return 0;
+
 }
